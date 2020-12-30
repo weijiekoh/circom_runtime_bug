@@ -1,0 +1,17 @@
+{
+  "name": "circom_runtime_bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circom": "^0.5.35",
+    "typescript": "^4.1.3",
+    "circom_runtime": "0.1.9",
+    "circomlib": "^0.4.1"
+  }
+}
